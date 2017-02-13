@@ -1,3 +1,8 @@
+/*
+Name:Michael Bridgette
+ID:c00205948
+Date: 13/02/2017
+*/
 #include <iostream>
 #include <SFML/Window.hpp>
 #include <SFML/OpenGL.hpp>
